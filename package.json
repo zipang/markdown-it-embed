@@ -1,0 +1,9 @@
+{
+  "name": "markdown-it-embed",
+  "version": "0.1.0",
+  "description": "Markdown It plugin to embed a lot of interactive medias (videos, music, presentations, pdfs..) ",
+  "main": "index.js",
+  "repository": "git@github.com:zipang/markdown-it-embed.git",
+  "author": "zipang <christophe.desguez@gmail.com>",
+  "license": "MIT"
+}
